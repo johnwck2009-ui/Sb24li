@@ -1,13 +1,13 @@
-# SB24 LuckyGZ - បេីកអាខោន$5
+# SB24 LuckyGZ
 
-Telegram bot for providing information about the account-opening service.
+Telegram bot for providing information and guidance about the account-opening service.
 
 ## Profile
 
-- **Name:** SB24 LuckyGZ - បេីកអាខោន$5
+- **Name:** SB24 LuckyGZ
 - **Username:** @SB24LuckyGZBot
-- **About:** បេីកអាខោនថ្មី តម្លៃ $5
-- **Description:** សេវាបេីកអាខោនថ្មី តម្លៃ $5។ ព័ត៌មានលម្អិត និងការណែនាំអំពីសេវាកម្មនៅក្នុង Bot។
+- **About:** សេវាបើកអាខោន និងព័ត៌មានណែនាំអំពីសេវាកម្ម
+- **Description:** សេវាបើកអាខោន និងព័ត៌មានណែនាំអំពីសេវាកម្ម។ ព័ត៌មានលម្អិត និងការណែនាំអាចទទួលបាននៅក្នុង Bot។
 
 ## Commands
 
