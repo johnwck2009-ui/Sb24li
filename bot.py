@@ -6,15 +6,15 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        "សូមស្វាគមន៍មកកាន់ SB24 LuckyGZ - បេីកអាខោន$5។\n"
-        "សេវាបេីកអាខោនថ្មី តម្លៃ $5។\n"
+        "សូមស្វាគមន៍មកកាន់ SB24 LuckyGZ។\n"
+        "សេវាបើកអាខោន និងព័ត៌មានណែនាំអំពីសេវាកម្ម។\n"
         "ប្រើ /about ដើម្បីមើលព័ត៌មានលម្អិត។"
     )
 
 async def about(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        "SB24 LuckyGZ - បេីកអាខោន$5\n"
-        "សេវាបេីកអាខោនថ្មី តម្លៃ $5។"
+        "SB24 LuckyGZ\n"
+        "សេវាបើកអាខោន និងព័ត៌មានណែនាំអំពីសេវាកម្ម។"
     )
 
 async def status(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
