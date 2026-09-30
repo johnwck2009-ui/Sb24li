@@ -7,9 +7,8 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        "សូមស្វាគមន៍មកកាន់ SB24 Guide។\n"
-        "សេវាបើកអាខោន និងព័ត៌មានណែនាំអំពីសេវាកម្ម។\n"
-        "ប្រើ /about ដើម្បីមើលព័ត៌មានលម្អិត។"
+        "⚽ សូមស្វាគមន៍មកកាន់ SB24 Live Info!\n"
+        "ទទួលព័ត៌មានការប្រកួតបាល់ទាត់ផ្ទាល់ ពិន្ទុ និងលទ្ធផលប្រកួតដែលបានអាប់ដេតតាមពេលវេលាជាក់ស្តែងនៅទីនេះ។"
     )
 
 
